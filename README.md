@@ -45,9 +45,7 @@ I am always eager to learn new technologies and take on challenging projects tha
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raj-bhai&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-bhai&layout=compact&theme=radical)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 
 ## 📫 How to Reach Me
