@@ -34,13 +34,12 @@ I am always eager to learn new technologies and take on challenging projects tha
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=raj-bhai&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-bhai&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 
 - **Email:** rajkiranjnv@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
+- **LinkedIn:** https://www.linkedin.com/in/rajkiran-k-8455b615b/
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on any exciting projects or just to chat about tech!
