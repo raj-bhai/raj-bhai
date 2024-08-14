@@ -12,12 +12,15 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
   - Node.js
   - Express.js
 - **Databases:**
+  - MYSQL
   - MongoDB
-  - Firebase
+  - DynaDB
 - **Other Tools:**
   - Git & GitHub
   - Visual Studio Code
   - Postman
+  - Android Studio
+  - X-Code
 
 ## 🚀 About Me
 
@@ -29,8 +32,8 @@ I am always eager to learn new technologies and take on challenging projects tha
 
 ## 🌟 Featured Projects
 
-- **[Grogrip Media Website](https://github.com/raj-bhai/grogrip):** It is the official website of Grogrip Media Pvt Limited.
-- **[Criativcity](https://github.com/raj-bhai/criativicity):** Video Editing course selling Website.
+- **[Grogrip Media Website](https://github.com/raj-bhai/grogrip):** An e-commerce website for purchasing YouTube automation products and packages, built with Next.js. Features a sleek, user-friendly interface and optimized performance for an exceptional shopping experience.
+- **[Criativcity](https://github.com/raj-bhai/criativicity):** Video Editing Course Website : A responsive web app built with React where users can purchase, watch video editing courses, and receive a certificate upon completion. Features a modern, user-friendly interface optimized for all devices.
 
 ## 📈 GitHub Stats
 
