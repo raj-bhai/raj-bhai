@@ -40,6 +40,8 @@ I am always eager to learn new technologies and take on challenging projects tha
 
 ## 📈 GitHub Stats
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=raj-bhai&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-bhai&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
