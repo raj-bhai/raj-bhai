@@ -32,7 +32,10 @@ I am always eager to learn new technologies and take on challenging projects tha
 
 ## 🌟 Featured Projects
 
+- **[Online Mock Test Application](https://github.com/raj-bhai/mock-test):** A comprehensive platform for creating and taking mock tests, built with Next.js for the front-end and Node.js for the back-end. Features include real-time test-taking, automatic grading, and detailed result analysis. Fully responsive and optimized for all devices.
+  
 - **[Grogrip Media Website](https://github.com/raj-bhai/grogrip):** An e-commerce website for purchasing YouTube automation products and packages, built with Next.js. Features a sleek, user-friendly interface and optimized performance for an exceptional shopping experience.
+  
 - **[Criativcity](https://github.com/raj-bhai/criativicity):** Video Editing Course Website : A responsive web app built with React where users can purchase, watch video editing courses, and receive a certificate upon completion. Features a modern, user-friendly interface optimized for all devices.
 
 ## 📈 GitHub Stats
