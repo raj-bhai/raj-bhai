@@ -29,7 +29,7 @@ I am always eager to learn new technologies and take on challenging projects tha
 
 ## 🌟 Featured Projects
 
-- **[Project Name](https://github.com/yourusername/project-name):** A brief description of what this project does and the technologies used.
+- **[Grogrip Media Website](https://github.com/raj-bhai/grogrip):** A brief description of what this project does and the technologies used.
 - **[Project Name](https://github.com/yourusername/project-name):** Another description of an interesting project you’ve worked on.
 
 ## 📈 GitHub Stats
