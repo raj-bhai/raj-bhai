@@ -29,8 +29,8 @@ I am always eager to learn new technologies and take on challenging projects tha
 
 ## 🌟 Featured Projects
 
-- **[Grogrip Media Website](https://github.com/raj-bhai/grogrip):** A brief description of what this project does and the technologies used.
-- **[Project Name](https://github.com/yourusername/project-name):** Another description of an interesting project you’ve worked on.
+- **[Grogrip Media Website](https://github.com/raj-bhai/grogrip):** It is the official website of Grogrip Media Pvt Limited.
+- **[Criativcity](https://github.com/raj-bhai/criativicity):** Video Editing course selling Website.
 
 ## 📈 GitHub Stats
 
