@@ -50,7 +50,7 @@ Check out my portfolio for more details about me and my work: https://iamrajklwr
 
 ## 📫 How to Reach Me
 
-- **Email:** rajkiranjnv@gmail.com
+- **Email:** rajkiranjnv1@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/rajkiran-k-8455b615b/
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on any exciting projects or just to chat about tech!
